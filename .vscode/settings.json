@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "tools"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.analysis.extraPaths": [
+        "./tools"
+    ]
+}
